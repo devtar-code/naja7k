@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6435155f-e4d1-40dd-9e92-2689e10fdcdd" />
+
+
 # Naja7k - AI Growth DAO – Deployment Roadmap & Architecture
 
 ## Overview
