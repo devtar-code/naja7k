@@ -1,4 +1,4 @@
-<img width="400" height="400" aligm=center alt="image" src="https://github.com/user-attachments/assets/6435155f-e4d1-40dd-9e92-2689e10fdcdd" />
+<img width="400" height="400" align=center alt="image" src="https://github.com/user-attachments/assets/6435155f-e4d1-40dd-9e92-2689e10fdcdd" />
 
 
 # Naja7k - AI Growth DAO – Deployment Roadmap & Architecture
