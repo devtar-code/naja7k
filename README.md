@@ -1,7 +1,7 @@
-# AI Growth DAO – Deployment Roadmap & Architecture
+# Naja7k - AI Growth DAO – Deployment Roadmap & Architecture
 
 ## Overview
-AI Growth DAO is an autonomous organization integrating AI agents into a DAO governance model. 
+Naja7k AI Growth DAO is an autonomous organization integrating AI agents into a DAO governance model. 
 It is funded with Bitcoin (BTC) via tBTC/WBTC or sBTC, and runs on EVM L2 infrastructure with strict treasury policies.
 
 The system is designed to begin with **AI agents in proposal-only mode**, gradually moving towards **capped autonomous execution** with strong security and transparency controls.
