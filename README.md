@@ -1,5 +1,6 @@
+<p align="center">
 <img width="400" height="400" class=center alt="image" src="https://github.com/user-attachments/assets/6435155f-e4d1-40dd-9e92-2689e10fdcdd" />
-
+</p>
 
 # Naja7k - AI Growth DAO – Deployment Roadmap & Architecture
 
