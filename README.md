@@ -8,6 +8,8 @@ The system is designed to begin with **AI agents in proposal-only mode**, gradua
 
 ---
 
+<img width="5370" height="2970" alt="AI_Growth_DAO_Enterprise_Architecture" src="https://github.com/user-attachments/assets/f1b1ec85-3216-479e-a5a2-91665b000ddf" />
+
 ## Architecture Summary
 
 **Layers:**
